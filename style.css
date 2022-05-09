@@ -1,0 +1,49 @@
+body{
+    background-color: #2f3035;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+header{
+    background-color: royalblue;
+    height: 118px;
+    text-align: center;
+   
+    
+}
+
+nav{
+    background-color: salmon;
+    height: 40px;
+    width: 1024;
+}
+
+main{
+    background-color: chocolate;
+    height: 400px;
+    text-align: center;
+  padding-top: 80px;
+  padding-left: 240px;
+  padding-right: 240px;
+    
+}
+ 
+footer {
+    background-color: crimson;
+    height: 100px;
+    
+}
+h1{
+    font-size: 84px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+p{
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
